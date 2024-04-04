@@ -4,6 +4,6 @@
 **The application will convert the text in the taken picture to computer-synthesized voices, Recognize and Say provides a friendly interface that is easy to use.**
 
 **Following the main stages:**
-- we had used OCR to scan the digitized text :memo: 	:mag:
-- then a deep Convolutional Neural Networks (DCNN) model that recognizes the text :woman_technologist:
-- lastly we had used the text-to-speech application to read it out to the user. :sound: :loud_sound:
+- We had used OCR to scan the digitized text :memo: 	:mag:
+- Then a deep Convolutional Neural Networks (DCNN) model that recognizes the text :woman_technologist:
+- Lastly, we had used the text-to-speech liberary to read it out to the user. :sound: :loud_sound:
