@@ -1,4 +1,8 @@
-# ![Logo !](Recognize-and-Say-it-OCR-Text-Recognition-to-speech/images/logo.png)
+
+ <p align="center">
+   <img src="Recognize-and-Say-it-OCR-Text-Recognition-to-speech/images/logo.png" />
+</p>
+
 # $${\color{lightblue}Recognize\space and\space Say\space it}$$
 :large_blue_diamond: To fulfil the needs of the visually impaired and the normal people who have an identified reading disorder or struggle to read,
 The application will convert the text in the taken picture to computer-synthesized voices, Recognize and Say provides a friendly interface that is easy to use.
