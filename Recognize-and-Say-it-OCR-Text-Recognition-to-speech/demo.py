@@ -3,7 +3,6 @@ from ocr import ocr
 import time
 import shutil
 import numpy as np
-# change it to . beacuse error
 import PIL.Image
 from glob import glob
 import pyttsx3
